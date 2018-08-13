@@ -1,3 +1,1 @@
-# GeoNN
-TensorFlow and PyTorch implementations of the Geodesic Neural Network
-df = pd.read_csv('bernie_2.csv', sep=';', escapechar='\\')
+TensorFlow and PyTorch implementations of the boundary YukawaGAN, bulk LeakGAN, and generative GaugeNN for adversarial text generation
